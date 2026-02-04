@@ -1,0 +1,75 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": 1,
+          "answer": "futbol",
+          "category": "spor",
+          "image": "https://site.com/images/futbol.jpg"
+        },
+        {
+          "id": 2,
+          "answer": "basketbol",
+          "category": "spor",
+          "image": "https://site.com/images/basket.jpg"
+        },
+        {
+          "id": 3,
+          "answer": "tenis",
+          "category": "spor",
+          "image": "https://site.com/images/tenis.jpg"
+        },
+        {
+          "id": 4,
+          "answer": "voleybol",
+          "category": "spor",
+          "image": "https://site.com/images/voleybol.jpg"
+        },
+        {
+          "id": 5,
+          "answer": "yuzme",
+          "category": "spor",
+          "image": "https://site.com/images/yuzme.jpg"
+        }
+      ]
+    },
+
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": 6,
+          "answer": "gitar",
+          "category": "muzik",
+          "image": "https://site.com/images/gitar.jpg"
+        },
+        {
+          "id": 7,
+          "answer": "piyano",
+          "category": "muzik",
+          "image": "https://site.com/images/piyano.jpg"
+        },
+        {
+          "id": 8,
+          "answer": "keman",
+          "category": "muzik",
+          "image": "https://site.com/images/keman.jpg"
+        },
+        {
+          "id": 9,
+          "answer": "davul",
+          "category": "muzik",
+          "image": "https://site.com/images/davul.jpg"
+        },
+        {
+          "id": 10,
+          "answer": "flut",
+          "category": "muzik",
+          "image": "https://site.com/images/flut.jpg"
+        }
+      ]
+    }
+  ]
+}
