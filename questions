@@ -5,33 +5,33 @@
       "questions": [
         {
           "id": 1,
-          "answer": "futbol",
+          "answer": "kante",
           "category": "spor",
-          "image": "https://site.com/images/futbol.jpg"
+          "image": "https://www.instagram.com/p/DUOwM3rgBuU/"
         },
         {
           "id": 2,
-          "answer": "basketbol",
+          "answer": "basketbol topu",
           "category": "spor",
-          "image": "https://site.com/images/basket.jpg"
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRna7FCt7FgxS87BtDzDd-vxl8LnJ3uV2E7GA&s"
         },
         {
           "id": 3,
           "answer": "tenis",
           "category": "spor",
-          "image": "https://site.com/images/tenis.jpg"
+          "image": "https://www.stan.com.tr/data/uploads/1099392121_tenis_kurallari_nelerdir_nasil_oynanir.webp"
         },
         {
           "id": 4,
           "answer": "voleybol",
           "category": "spor",
-          "image": "https://site.com/images/voleybol.jpg"
+          "image": "https://storage.acerapps.io/app-1358/voleybol-hakkinda-bilinmesi-gerekenler.jpg"
         },
         {
           "id": 5,
           "answer": "yuzme",
           "category": "spor",
-          "image": "https://site.com/images/yuzme.jpg"
+          "image": "https://storage.acerapps.io/app-1358/voleybol-hakkinda-bilinmesi-gerekenler.jpg"
         }
       ]
     },
@@ -43,31 +43,31 @@
           "id": 6,
           "answer": "gitar",
           "category": "muzik",
-          "image": "https://site.com/images/gitar.jpg"
+          "image": "https://www.4cmusic.com/product/vc103t-/VALENCIA"
         },
         {
           "id": 7,
-          "answer": "piyano",
+          "answer": "gitar",
           "category": "muzik",
-          "image": "https://site.com/images/piyano.jpg"
+          "image": "https://www.4cmusic.com/product/vc103t-/VALENCIA"
         },
         {
           "id": 8,
-          "answer": "keman",
+          "answer": "gitar",
           "category": "muzik",
-          "image": "https://site.com/images/keman.jpg"
+          "image": "https://www.4cmusic.com/product/vc103t-/VALENCIA"
         },
         {
           "id": 9,
-          "answer": "davul",
+          "answer": "gitar",
           "category": "muzik",
-          "image": "https://site.com/images/davul.jpg"
+          "image": "https://www.4cmusic.com/product/vc103t-/VALENCIA"
         },
         {
           "id": 10,
-          "answer": "flut",
+          "answer": "gitar",
           "category": "muzik",
-          "image": "https://site.com/images/flut.jpg"
+          "image": "https://www.4cmusic.com/product/vc103t-/VALENCIA"
         }
       ]
     }
