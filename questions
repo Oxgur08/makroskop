@@ -5,35 +5,35 @@
       "questions": [
         {
           "id": 1,
-          "answerTr": "ördek",
+          "answer": "ördek",
           "answerEn": "duck",
           "category": "spor",
           "image": "https://r.resimlink.com/I6X83F.jpg"
         },
         {
           "id": 2,
-          "answerTr": "basketbol topu",
+          "answer": "basketbol topu",
           "answerEn": "basketball",
           "category": "spor",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRna7FCt7FgxS87BtDzDd-vxl8LnJ3uV2E7GA&s"
         },
         {
           "id": 3,
-          "answerTr": "tenis",
+          "answer": "tenis",
           "answerEn": "tennis",
           "category": "spor",
           "image": "https://www.stan.com.tr/data/uploads/1099392121_tenis_kurallari_nelerdir_nasil_oynanir.webp"
         },
         {
           "id": 4,
-          "answerTr": "voleybol",
+          "answer": "voleybol",
           "answerEn": "voleyball",
           "category": "spor",
           "image": "https://storage.acerapps.io/app-1358/voleybol-hakkinda-bilinmesi-gerekenler.jpg"
         },
         {
           "id": 5,
-          "answerTr": "yuzme",
+          "answer": "yuzme",
           "answerEn": "swiming",
           "category": "spor",
           "image": "https://storage.acerapps.io/app-1358/voleybol-hakkinda-bilinmesi-gerekenler.jpg"
@@ -46,35 +46,35 @@
       "questions": [
         {
           "id": 6,
-          "answerTr": "gitar",
+          "answer": "gitar",
           "answerEn": "guitar",
           "category": "muzik",
           "image": "https://www.cdnaws.com/i/calgidukkani/ZW3D2Lqi2qQZW3D2QvGYHPsSdwLZW3D2/images/urunler/63d125d9b2764-63d125d9b5380.jpg"
         },
         {
           "id": 7,
-          "answerTr": "gazapizm",
+          "answer": "gazapizm",
           "answerEn": "gazapizm",
           "category": "muzik",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdqVFBtzvCi_6hhe8lLlNOw_wY28lASX-mA&s"
         },
         {
           "id": 8,
-          "answerTr": "mikrofon",
+          "answer": "mikrofon",
           "answerEn": "microphone",
           "category": "muzik",
           "image": "https://img-zuhalmuzik.mncdn.com/mnresize/1000/1000/images/product/142504SL85S-4.jpg"
         },
         {
           "id": 9,
-          "answerTr": "gitar",
+          "answer": "gitar",
           "answerEn": "guitar",
           "category": "muzik",
           "image": "https://www.4cmusic.com/product/vc103t-/VALENCIA"
         },
         {
           "id": 10,
-          "answerTr": "gitar",
+          "answer": "gitar",
           "answerEn": "guitar",
           "category": "muzik",
           "image": "https://www.4cmusic.com/product/vc103t-/VALENCIA"
