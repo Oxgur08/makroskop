@@ -40,7 +40,6 @@
         }
       ]
     },
-
     {
       "level": 2,
       "questions": [
@@ -79,70 +78,74 @@
           "category": "eşya",
           "image": "https://hizliresim.com/6a2dnca.png"
         },
-	{
+		"level": 3,	
+      	"questions": [
+		{
           "id": 11,
           "answerTr": "çorap",
           "answerEn": "sock",
           "category": "eşya",
           "image": "https://hizliresim.com/1ykc7jg.png"
         },
-	{
+		{
           "id": 12,
           "answerTr": "deodorant",
           "answerEn": "deodorant",
           "category": "eşya",
           "image": "https://hizliresim.com/6l6p6n4.png"
         },
-	{
+		{
           "id": 13,
           "answerTr": "diş fırçası",
           "answerEn": "toothbrush",
           "category": "eşya",
           "image": "https://hizliresim.com/fdpssja.png"
         },
-	{
+		{
           "id": 14,
           "answerTr": "diş macunu",
           "answerEn": "toothpaste",
           "category": "eşya",
           "image": "https://hizliresim.com/b815gyg.png"
         },
-	{
+		{
           "id": 15,
           "answerTr": "elbise",
           "answerEn": "dress",
           "category": "eşya",
           "image": "https://hizliresim.com/twfkth6.png"
         },
-	{
+		"level": 4,
+      	"questions": [
+		{
           "id": 16,
           "answerTr": "eldiven",
           "answerEn": "glove",
           "category": "eşya",
           "image": "https://hizliresim.com/mrnmqxh.png"
         },
-	{
+		{
           "id": 17,
           "answerTr": "eşortman",
           "answerEn": "tracksuit",
           "category": "eşya",
           "image": "https://hizliresim.com/g3av288.png"
         },
-	{
+		{
           "id": 18,
           "answerTr": "etek",
           "answerEn": "skirt",
           "category": "eşya",
           "image": "https://hizliresim.com/dhzfnyk.png"
         },
-	{
+		{
           "id": 19,
           "answerTr": "gözlük",
           "answerEn": "glasses",
           "category": "eşya",
           "image": "https://hizliresim.com/33r911d.png"
         },
-	{
+		{
           "id": 20,
           "answerTr": "gömlek",
           "answerEn": "shirt",
