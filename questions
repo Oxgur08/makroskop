@@ -8,151 +8,156 @@
           "answerTr": "anahtar",
           "answerEn": "key",
           "category": "eşya",
-          "image": "https://hizliresim.com/16c3qsg.png"
+          "image": "https://hizliresim.com/16c3qsg"
         },
         {
           "id": 2,
           "answerTr": "atkı",
           "answerEn": "scarf",
           "category": "eşya",
-          "image": "https://hizliresim.com/tsckvpa.png"
+          "image": "https://hizliresim.com/tsckvpa"
         },
         {
           "id": 3,
           "answerTr": "atlet",
           "answerEn": "singlet",
           "category": "spor",
-          "image": "https://hizliresim.com/9lyawhw.png"
+          "image": "https://hizliresim.com/9lyawhw"
         },
         {
           "id": 4,
           "answer": "ayakkabı",
           "answerEn": "shoe",
           "category": "eşya",
-          "image": "https://hizliresim.com/n0hlijv.png"
+          "image": "https://hizliresim.com/n0hlijv"
         },
         {
           "id": 5,
           "answerTr": "bere",
           "answerEn": "beanie",
           "category": "eşya",
-          "image": "https://hizliresim.com/i9d8ofn.png"
+          "image": "https://hizliresim.com/i9d8ofn"
         }
       ]
     },
+
     {
       "level": 2,
       "questions": [
-        {
+      {
           "id": 6,
           "answerTr": "bornoz",
           "answerEn": "Dressing gown",
           "category": "eşya",
-          "image": "https://hizliresim.com/invg0nf.png"
+          "image": "https://hizliresim.com/invg0nf"
         },
         {
           "id": 7,
           "answer": "baksır",
           "answerEn": "boxer",
           "category": "muzik",
-          "image": "https://hizliresim.com/nlwy144.png"
+          "image": "https://hizliresim.com/nlwy144"
         },
         {
           "id": 8,
           "answerTr": "çanta",
           "answerEn": "bag",
           "category": "eşya",
-          "image": "https://hizliresim.com/frgeyc3.png"
+          "image": "https://hizliresim.com/frgeyc3"
         },
         {
           "id": 9,
           "answerTr": "ceket",
           "answerEn": "jacket",
           "category": "eşya",
-          "image": "https://hizliresim.com/il0n502.png"
+          "image": "https://hizliresim.com/il0n502"
         },
         {
           "id": 10,
           "answerTr": "cüzdan",
           "answerEn": "purse",
           "category": "eşya",
-          "image": "https://hizliresim.com/6a2dnca.png"
-        },
-		"level": 3,	
-      	"questions": [
-		{
+          "image": "https://hizliresim.com/6a2dnca"
+        }
+      ]
+    }
+      "level": 3,
+      "questions": [
+	{
           "id": 11,
           "answerTr": "çorap",
           "answerEn": "sock",
           "category": "eşya",
-          "image": "https://hizliresim.com/1ykc7jg.png"
+          "image": "https://hizliresim.com/1ykc7jg"
         },
-		{
+	{
           "id": 12,
           "answerTr": "deodorant",
           "answerEn": "deodorant",
           "category": "eşya",
-          "image": "https://hizliresim.com/6l6p6n4.png"
+          "image": "https://hizliresim.com/6l6p6n4"
         },
-		{
+	{
           "id": 13,
           "answerTr": "diş fırçası",
           "answerEn": "toothbrush",
           "category": "eşya",
-          "image": "https://hizliresim.com/fdpssja.png"
+          "image": "https://hizliresim.com/fdpssja"
         },
-		{
+	{
           "id": 14,
           "answerTr": "diş macunu",
           "answerEn": "toothpaste",
           "category": "eşya",
-          "image": "https://hizliresim.com/b815gyg.png"
+          "image": "https://hizliresim.com/b815gyg"
         },
-		{
+	{
           "id": 15,
           "answerTr": "elbise",
           "answerEn": "dress",
           "category": "eşya",
-          "image": "https://hizliresim.com/twfkth6.png"
-        },
-		"level": 4,
-      	"questions": [
-		{
+          "image": "https://hizliresim.com/twfkth6"
+        }
+      ]
+    },
+      "level": 4,
+      "questions": [
+	{
           "id": 16,
           "answerTr": "eldiven",
           "answerEn": "glove",
           "category": "eşya",
-          "image": "https://hizliresim.com/mrnmqxh.png"
+          "image": "https://hizliresim.com/mrnmqxh"
         },
-		{
+	{
           "id": 17,
           "answerTr": "eşortman",
           "answerEn": "tracksuit",
           "category": "eşya",
-          "image": "https://hizliresim.com/g3av288.png"
+          "image": "https://hizliresim.com/g3av288"
         },
-		{
+	{
           "id": 18,
           "answerTr": "etek",
           "answerEn": "skirt",
           "category": "eşya",
-          "image": "https://hizliresim.com/dhzfnyk.png"
+          "image": "https://hizliresim.com/dhzfnyk"
         },
-		{
+	{
           "id": 19,
           "answerTr": "gözlük",
           "answerEn": "glasses",
           "category": "eşya",
-          "image": "https://hizliresim.com/33r911d.png"
+          "image": "https://hizliresim.com/33r911d"
         },
-		{
+	{
           "id": 20,
           "answerTr": "gömlek",
           "answerEn": "shirt",
           "category": "eşya",
-          "image": "https://hizliresim.com/3wfwffc.png"
-        },
+          "image": "https://hizliresim.com/3wfwffc"
+        }
       ]
-    }
+    },
   ]
 }
