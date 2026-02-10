@@ -5,28 +5,28 @@
       "questions": [
         {
           "id": 1,
-          "answer": "ayak kabı",
+          "answer": "ayak kabıx",
           "answerEn": "shoe",
           "category": "eşya",
           "image": "https://r.resimlink.com/VW9mBeR0rETl.png"
         },
         {
           "id": 2,
-          "answerTr": "atkı",
+          "answerTr": "baksır",
           "answerEn": "scarf",
           "category": "eşya",
           "image": "https://r.resimlink.com/wiZQkhpAty0j.png"
         },
         {
           "id": 3,
-          "answerTr": "atlet",
+          "answerTr": "baksir",
           "answerEn": "singlet",
           "category": "spor",
           "image": "https://r.resimlink.com/_0sESLPO7n4z.png"
         },
         {
           "id": 4,
-          "answerTr": "anahtar",
+          "answerTr": "anahtars",
           "answerEn": "key",
           "category": "eşya",
           "image": "https://r.resimlink.com/JaB2965h.png"
