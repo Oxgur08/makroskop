@@ -5,10 +5,10 @@
       "questions": [
         {
           "id": 1,
-          "answerTr": "anahtar",
-          "answerEn": "key",
+          "answer": "ayakkabı",
+          "answerEn": "shoe",
           "category": "eşya",
-          "image": "https://r.resimlink.com/JaB2965h.png"
+          "image": "https://r.resimlink.com/VW9mBeR0rETl.png"
         },
         {
           "id": 2,
@@ -26,10 +26,10 @@
         },
         {
           "id": 4,
-          "answer": "ayakkabı",
-          "answerEn": "shoe",
+          "answerTr": "anahtar",
+          "answerEn": "key",
           "category": "eşya",
-          "image": "https://r.resimlink.com/VW9mBeR0rETl.png"
+          "image": "https://r.resimlink.com/JaB2965h.png"
         },
         {
           "id": 5,
