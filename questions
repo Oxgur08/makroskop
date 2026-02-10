@@ -7,35 +7,40 @@
           "id": 1,
           "answerTr": "anahtar",
           "answerEn": "key",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/JaB2965h.png"
         },
         {
           "id": 2,
           "answerTr": "atkı",
           "answerEn": "scarf",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/wiZQkhpAty0j.png"
         },
         {
           "id": 3,
           "answerTr": "atlet",
           "answerEn": "singlet",
-          "category": "spor",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/_0sESLPO7n4z.png"
         },
         {
           "id": 4,
           "answerTr": "ayakkabı",
           "answerEn": "shoe",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/VW9mBeR0rETl.png"
         },
         {
           "id": 5,
           "answerTr": "bere",
           "answerEn": "beanie",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/6im1Po.png"
         }
       ]
@@ -47,35 +52,40 @@
           "id": 6,
           "answerTr": "bornoz",
           "answerEn": "Dressing gown",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/bKh0q.png"
         },
         {
           "id": 7,
           "answerTr": "baksır",
           "answerEn": "boxer",
-          "category": "muzik",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/012YvErRIP9.png"
         },
         {
           "id": 8,
           "answerTr": "çanta",
           "answerEn": "bag",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/-05aTjn.png"
         },
         {
           "id": 9,
           "answerTr": "ceket",
           "answerEn": "jacket",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/JH3xEB8_-v.png"
         },
         {
           "id": 10,
           "answerTr": "cüzdan",
           "answerEn": "purse",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/GuTZC_2ABFI.png"
 		}
    	]
@@ -87,35 +97,40 @@
           "id": 11,
           "answerTr": "çorap",
           "answerEn": "sock",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/n31jlwM7yE.png"
         },
 		{
           "id": 12,
           "answerTr": "deodorant",
           "answerEn": "deodorant",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/-cHJih.png"
         },
 		{
           "id": 13,
           "answerTr": "diş fırçası",
           "answerEn": "toothbrush",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/8Xh6m35T2.png"
         },
 		{
           "id": 14,
           "answerTr": "diş macunu",
           "answerEn": "toothpaste",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/khS6gLHy-Tp.png"
         },
 		{
           "id": 15,
           "answerTr": "elbise",
           "answerEn": "dress",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/o0-W9mZrbD.png"
          }
       ]
@@ -127,35 +142,40 @@
           "id": 16,
           "answerTr": "eldiven",
           "answerEn": "glove",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/xipE1b-Gu3zk.png"
         },
 		{
           "id": 17,
           "answerTr": "eşortman",
           "answerEn": "tracksuit",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/D8vycA72C.png"
         },
 		{
           "id": 18,
           "answerTr": "etek",
           "answerEn": "skirt",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/vY6s4hG79bw.png"
         },
 		{
           "id": 19,
           "answerTr": "gözlük",
           "answerEn": "glasses",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/g0cmsWOUB.png"
         },
 		{
           "id": 20,
           "answerTr": "gömlek",
           "answerEn": "shirt",
-          "category": "eşya",
+          "categoryTr": "eşya",
+		  "categoryEn": "stuff",
           "image": "https://r.resimlink.com/WFigjn.png"
         }
       ]
