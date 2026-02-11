@@ -5,43 +5,63 @@
       "questions": [
         {
           "id": 1,
-          "answerTr": "anahtar",
-          "answerEn": "key",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://aty3825-rgb.github.io/macroscopeimg/anahtar.webp"
+          "answerTr": "tarak",
+          "answerEn": "comb",
+          "answerDe": "kamm",
+          "answerEs": "peine",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/tarak.webp"
         },
         {
           "id": 2,
-          "answerTr": "anaktarlık",
-          "answerEn": "scarf",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://aty3825-rgb.github.io/macroscopeimg/anahtarl%C4%B1k.png"
+          "answerTr": "diş fırçası",
+          "answerEn": "toothbrush",
+          "answerDe": "zahnbürste",
+          "answerEs": "cepillo de dientes",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/diş fırçası.webp"
         },
         {
           "id": 3,
-          "answerTr": "atlet",
-          "answerEn": "singlet",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/_0sESLPO7n4z.png"
+          "answerTr": "havlu",
+          "answerEn": "towel",
+          "answerDe": "handtuch",
+          "answerEs": "toalla",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/havlu.webp"
         },
         {
           "id": 4,
-          "answerTr": "ayakkabı",
-          "answerEn": "shoe",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/VW9mBeR0rETl.png"
+          "answerTr": "anahtar",
+          "answerEn": "key",
+          "answerDe": "schlüssel",
+          "answerEs": "llave",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/anahtar.webp"
         },
         {
           "id": 5,
-          "answerTr": "bere",
-          "answerEn": "beanie",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/6im1Po.png"
+          "answerTr": "kemer",
+          "answerEn": "belt",
+          "answerDe": "gürtel",
+          "answerEs": "cinturón",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/kemer.webp"
         }
       ]
     },
@@ -50,133 +70,860 @@
       "questions": [
         {
           "id": 6,
-          "answerTr": "bornoz",
-          "answerEn": "Dressing gown",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/bKh0q.png"
+          "answerTr": "pantolon",
+          "answerEn": "pants",
+          "answerDe": "hose",
+          "answerEs": "pantalones",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/pantolon.webp"
         },
         {
           "id": 7,
-          "answerTr": "baksır",
-          "answerEn": "boxer",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/012YvErRIP9.png"
+          "answerTr": "mont",
+          "answerEn": "coat",
+          "answerDe": "mantel",
+          "answerEs": "abrigo",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/mont.webp"
         },
         {
           "id": 8,
-          "answerTr": "çanta",
-          "answerEn": "bag",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/-05aTjn.png"
+          "answerTr": "gözlük",
+          "answerEn": "glasses",
+          "answerDe": "brille",
+          "answerEs": "gafas",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/gözlük.webp"
         },
         {
           "id": 9,
-          "answerTr": "ceket",
-          "answerEn": "jacket",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/JH3xEB8_-v.png"
+          "answerTr": "güneş gözlüğü",
+          "answerEn": "sunglasses",
+          "answerDe": "sonnenbrille",
+          "answerEs": "gafas de sol",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/güneş gözlüğü.webp"
         },
         {
           "id": 10,
-          "answerTr": "cüzdan",
-          "answerEn": "purse",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/GuTZC_2ABFI.png"
-		}
-   	]
-	},
-	{
-      "level": 3,
-      "questions": [
-		{
-          "id": 11,
-          "answerTr": "çorap",
-          "answerEn": "sock",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/n31jlwM7yE.png"
-        },
-		{
-          "id": 12,
-          "answerTr": "deodorant",
-          "answerEn": "deodorant",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/-cHJih.png"
-        },
-		{
-          "id": 13,
-          "answerTr": "diş fırçası",
-          "answerEn": "toothbrush",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/8Xh6m35T2.png"
-        },
-		{
-          "id": 14,
-          "answerTr": "diş macunu",
-          "answerEn": "toothpaste",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/khS6gLHy-Tp.png"
-        },
-		{
-          "id": 15,
-          "answerTr": "elbise",
-          "answerEn": "dress",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/o0-W9mZrbD.png"
-         }
+          "answerTr": "kol saati",
+          "answerEn": "wristwatch",
+          "answerDe": "armbanduhr",
+          "answerEs": "reloj de pulsera",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/kol saati.webp"
+        }
       ]
     },
-	{
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": 11,
+          "answerTr": "yüzük",
+          "answerEn": "ring",
+          "answerDe": "ring",
+          "answerEs": "anillo",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/yüzük.webp"
+        },
+        {
+          "id": 12,
+          "answerTr": "ayakkabı",
+          "answerEn": "shoes",
+          "answerDe": "schuhe",
+          "answerEs": "zapatos",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/ayakkabı.webp"
+        },
+        {
+          "id": 13,
+          "answerTr": "eşofman",
+          "answerEn": "tracksuit",
+          "answerDe": "trainingsanzug",
+          "answerEs": "chándal",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/eşofman.webp"
+        },
+        {
+          "id": 14,
+          "answerTr": "hırka",
+          "answerEn": "cardigan",
+          "answerDe": "strickjacke",
+          "answerEs": "cárdigan",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/hırka.webp"
+        },
+        {
+          "id": 15,
+          "answerTr": "kazak",
+          "answerEn": "sweater",
+          "answerDe": "pullover",
+          "answerEs": "suéter",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/kazak.webp"
+        }
+      ]
+    },
+    {
       "level": 4,
       "questions": [
-		{
+        {
           "id": 16,
-          "answerTr": "eldiven",
-          "answerEn": "glove",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/xipE1b-Gu3zk.png"
+          "answerTr": "şort",
+          "answerEn": "shorts",
+          "answerDe": "shorts",
+          "answerEs": "pantalones cortos",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/şort.webp"
         },
-		{
+        {
           "id": 17,
-          "answerTr": "eşortman",
-          "answerEn": "tracksuit",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/D8vycA72C.png"
+          "answerTr": "tayt",
+          "answerEn": "tights",
+          "answerDe": "strumpfhose",
+          "answerEs": "medias",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/tayt.webp"
         },
-		{
+        {
           "id": 18,
-          "answerTr": "etek",
-          "answerEn": "skirt",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/vY6s4hG79bw.png"
+          "answerTr": "bere",
+          "answerEn": "beanie",
+          "answerDe": "mütze",
+          "answerEs": "gorro",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/bere.webp"
         },
-		{
+        {
           "id": 19,
-          "answerTr": "gözlük",
-          "answerEn": "glasses",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/g0cmsWOUB.png"
+          "answerTr": "askı",
+          "answerEn": "hanger",
+          "answerDe": "kleiderbügel",
+          "answerEs": "percha",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/askı.webp"
         },
-		{
+        {
           "id": 20,
+          "answerTr": "cüzdan",
+          "answerEn": "wallet",
+          "answerDe": "geldbörse",
+          "answerEs": "billetera",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/cüzdan.webp"
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "questions": [
+        {
+          "id": 21,
+          "answerTr": "çanta",
+          "answerEn": "bag",
+          "answerDe": "tasche",
+          "answerEs": "bolsa",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/çanta.webp"
+        },
+        {
+          "id": 22,
+          "answerTr": "şemsiye",
+          "answerEn": "umbrella",
+          "answerDe": "regenschirm",
+          "answerEs": "paraguas",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/şemsiye.webp"
+        },
+        {
+          "id": 23,
+          "answerTr": "tişört",
+          "answerEn": "t-shirt",
+          "answerDe": "t-shirt",
+          "answerEs": "camiseta",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/tişört.webp"
+        },
+        {
+          "id": 24,
           "answerTr": "gömlek",
           "answerEn": "shirt",
-          "categoryTr": "eşya",
-		  "categoryEn": "stuff",
-          "image": "https://r.resimlink.com/WFigjn.png"
+          "answerDe": "hemd",
+          "answerEs": "camisa",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/gömlek.webp"
+        },
+        {
+          "id": 25,
+          "answerTr": "ceket",
+          "answerEn": "jacket",
+          "answerDe": "jacke",
+          "answerEs": "chaqueta",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/ceket.webp"
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "questions": [
+        {
+          "id": 26,
+          "answerTr": "şapka",
+          "answerEn": "hat",
+          "answerDe": "hut",
+          "answerEs": "sombrero",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/şapka.webp"
+        },
+        {
+          "id": 27,
+          "answerTr": "etek",
+          "answerEn": "skirt",
+          "answerDe": "rock",
+          "answerEs": "falda",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/etek.webp"
+        },
+        {
+          "id": 28,
+          "answerTr": "elbise",
+          "answerEn": "dress",
+          "answerDe": "kleid",
+          "answerEs": "vestido",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/elbise.webp"
+        },
+        {
+          "id": 29,
+          "answerTr": "pijama",
+          "answerEn": "pajamas",
+          "answerDe": "schlafanzug",
+          "answerEs": "pijama",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/pijama.webp"
+        },
+        {
+          "id": 30,
+          "answerTr": "atlet",
+          "answerEn": "undershirt",
+          "answerDe": "unterhemd",
+          "answerEs": "camiseta interior",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/atlet.webp"
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "questions": [
+        {
+          "id": 31,
+          "answerTr": "boxer",
+          "answerEn": "boxer shorts",
+          "answerDe": "boxershorts",
+          "answerEs": "bóxers",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/boxer.webp"
+        },
+        {
+          "id": 32,
+          "answerTr": "külot",
+          "answerEn": "panties",
+          "answerDe": "höschen",
+          "answerEs": "bragas",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/külot.webp"
+        },
+        {
+          "id": 33,
+          "answerTr": "sütyen",
+          "answerEn": "bra",
+          "answerDe": "bh",
+          "answerEs": "sujetador",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/sütyen.webp"
+        },
+        {
+          "id": 34,
+          "answerTr": "yağmurluk",
+          "answerEn": "raincoat",
+          "answerDe": "regenmantel",
+          "answerEs": "impermeable",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/yağmurluk.webp"
+        },
+        {
+          "id": 35,
+          "answerTr": "anahtarlık",
+          "answerEn": "keychain",
+          "answerDe": "schlüsselanhänger",
+          "answerEs": "llavero",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/anahtarlık.webp"
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "questions": [
+        {
+          "id": 36,
+          "answerTr": "tespih",
+          "answerEn": "prayer beads",
+          "answerDe": "gebetskette",
+          "answerEs": "cuentas de oración",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/tespih.webp"
+        },
+        {
+          "id": 37,
+          "answerTr": "bandana",
+          "answerEn": "bandana",
+          "answerDe": "bandana",
+          "answerEs": "bandana",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/bandana.webp"
+        },
+        {
+          "id": 38,
+          "answerTr": "çorap",
+          "answerEn": "socks",
+          "answerDe": "socken",
+          "answerEs": "calcetines",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/çorap.webp"
+        },
+        {
+          "id": 39,
+          "answerTr": "eldiven",
+          "answerEn": "gloves",
+          "answerDe": "handschuhe",
+          "answerEs": "guantes",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/eldiven.webp"
+        },
+        {
+          "id": 40,
+          "answerTr": "atkı",
+          "answerEn": "scarf",
+          "answerDe": "schal",
+          "answerEs": "bufanda",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/atkı.webp"
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "questions": [
+        {
+          "id": 41,
+          "answerTr": "kravat",
+          "answerEn": "tie",
+          "answerDe": "krawatte",
+          "answerEs": "corbata",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/kravat.webp"
+        },
+        {
+          "id": 42,
+          "answerTr": "mayo",
+          "answerEn": "swimsuit",
+          "answerDe": "badeanzug",
+          "answerEs": "traje de baño",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/mayo.webp"
+        },
+        {
+          "id": 43,
+          "answerTr": "kulaklık",
+          "answerEn": "headphones",
+          "answerDe": "kopfhörer",
+          "answerEs": "auriculares",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/kulaklık.webp"
+        },
+        {
+          "id": 44,
+          "answerTr": "mendil",
+          "answerEn": "handkerchief",
+          "answerDe": "taschentuch",
+          "answerEs": "pañuelo",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/mendil.webp"
+        },
+        {
+          "id": 45,
+          "answerTr": "papyon",
+          "answerEn": "bow tie",
+          "answerDe": "fliege",
+          "answerEs": "pajarita",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/papyon.webp"
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "questions": [
+        {
+          "id": 46,
+          "answerTr": "terlik",
+          "answerEn": "slippers",
+          "answerDe": "hausschuhe",
+          "answerEs": "pantuflas",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/terlik.webp"
+        },
+        {
+          "id": 47,
+          "answerTr": "bot",
+          "answerEn": "boots",
+          "answerDe": "stiefel",
+          "answerEs": "botas",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/bot.webp"
+        },
+        {
+          "id": 48,
+          "answerTr": "kolye",
+          "answerEn": "necklace",
+          "answerDe": "halskette",
+          "answerEs": "collar",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/kolye.webp"
+        },
+        {
+          "id": 49,
+          "answerTr": "küpe",
+          "answerEn": "earring",
+          "answerDe": "ohrring",
+          "answerEs": "pendiente",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/küpe.webp"
+        },
+        {
+          "id": 50,
+          "answerTr": "toka",
+          "answerEn": "hair clip",
+          "answerDe": "haarspange",
+          "answerEs": "horquilla",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/toka.webp"
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "questions": [
+        {
+          "id": 51,
+          "answerTr": "bornoz",
+          "answerEn": "bathrobe",
+          "answerDe": "bademantel",
+          "answerEs": "albornoz",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/bornoz.webp"
+        },
+        {
+          "id": 52,
+          "answerTr": "valiz",
+          "answerEn": "suitcase",
+          "answerDe": "koffer",
+          "answerEs": "maleta",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/valiz.webp"
+        },
+        {
+          "id": 53,
+          "answerTr": "yelpaze",
+          "answerEn": "fan",
+          "answerDe": "fächer",
+          "answerEs": "abanico",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/yelpaze.webp"
+        },
+        {
+          "id": 54,
+          "answerTr": "diş macunu",
+          "answerEn": "toothpaste",
+          "answerDe": "zahnpasta",
+          "answerEs": "pasta de dientes",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/diş macunu.webp"
+        },
+        {
+          "id": 55,
+          "answerTr": "sabun",
+          "answerEn": "soap",
+          "answerDe": "seife",
+          "answerEs": "jabón",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/sabun.webp"
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "questions": [
+        {
+          "id": 56,
+          "answerTr": "şampuan",
+          "answerEn": "shampoo",
+          "answerDe": "shampoo",
+          "answerEs": "champú",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/şampuan.webp"
+        },
+        {
+          "id": 57,
+          "answerTr": "parfüm",
+          "answerEn": "perfume",
+          "answerDe": "parfüm",
+          "answerEs": "perfume",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/parfüm.webp"
+        },
+        {
+          "id": 58,
+          "answerTr": "deodorant",
+          "answerEn": "deodorant",
+          "answerDe": "deodorant",
+          "answerEs": "desodorante",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/deodorant.webp"
+        },
+        {
+          "id": 59,
+          "answerTr": "broş",
+          "answerEn": "brooch",
+          "answerDe": "brosche",
+          "answerEs": "broche",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/broş.webp"
+        },
+        {
+          "id": 60,
+          "answerTr": "halhal",
+          "answerEn": "anklet",
+          "answerDe": "fußkettchen",
+          "answerEs": "tobillera",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/halhal.webp"
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "questions": [
+        {
+          "id": 61,
+          "answerTr": "tıraş bıçağı",
+          "answerEn": "razor",
+          "answerDe": "rasierklinge",
+          "answerEs": "cuchilla de afeitar",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/tıraş bıçağı.webp"
+        },
+        {
+          "id": 62,
+          "answerTr": "tıraş köpüğü",
+          "answerEn": "shaving foam",
+          "answerDe": "rasierschaum",
+          "answerEs": "espuma de afeitar",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/tıraş köpüğü.webp"
+        },
+        {
+          "id": 63,
+          "answerTr": "nemlendirici",
+          "answerEn": "moisturizer",
+          "answerDe": "feuchtigkeitscreme",
+          "answerEs": "crema hidratante",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/nemlendirici.webp"
+        },
+        {
+          "id": 64,
+          "answerTr": "güneş kremi",
+          "answerEn": "sunscreen",
+          "answerDe": "sonnencreme",
+          "answerEs": "protector solar",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/güneş kremi.webp"
+        },
+        {
+          "id": 65,
+          "answerTr": "tırnak makası",
+          "answerEn": "nail clippers",
+          "answerDe": "nagelknipser",
+          "answerEs": "cortauñas",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/tırnak makası.webp"
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "questions": [
+        {
+          "id": 66,
+          "answerTr": "törpü",
+          "answerEn": "nail file",
+          "answerDe": "nagelfeile",
+          "answerEs": "lima de uñas",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/törpü.webp"
+        },
+        {
+          "id": 67,
+          "answerTr": "cımbız",
+          "answerEn": "tweezers",
+          "answerDe": "pinzette",
+          "answerEs": "pinzas",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/cımbız.webp"
+        },
+        {
+          "id": 68,
+          "answerTr": "ayna",
+          "answerEn": "mirror",
+          "answerDe": "spiegel",
+          "answerEs": "espejo",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/ayna.webp"
+        },
+        {
+          "id": 69,
+          "answerTr": "çakı",
+          "answerEn": "pocket knife",
+          "answerDe": "taschenmesser",
+          "answerEs": "navaja",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/çakı.webp"
+        },
+        {
+          "id": 70,
+          "answerTr": "çakmak",
+          "answerEn": "lighter",
+          "answerDe": "feuerzeug",
+          "answerEs": "encendedor",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/çakmak.webp"
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "questions": [
+        {
+          "id": 71,
+          "answerTr": "kol düğmesi",
+          "answerEn": "cufflink",
+          "answerDe": "manschettenknopf",
+          "answerEs": "gemelo",
+          "categoryTr": "kişisel eşya",
+          "categoryEn": "personal belongings",
+          "categoryDe": "persönliche gegenstände",
+          "categoryEs": "objetos personales",
+          "image": "https://aty3825-rgb.github.io/macroscopeimg/kol düğmesi.webp"
         }
       ]
     }
