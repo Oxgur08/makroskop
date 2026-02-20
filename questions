@@ -3,11 +3,21 @@
     {
       "level": 1,
       "questions": [
-          { "id": 40, "answerTr": "goril", "answerEn": "gorilla", "answerDe": "gorilla", "answerEs": "gorila", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/goril.webp" }
-        { "id": 19, "answerTr": "cüzdan", "answerEn": "wallet", "answerDe": "geldbörse", "answerEs": "billetera", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/cüzdan.webp" },
-        { "id": 6, "answerTr": "anahtar", "answerEn": "key", "answerDe": "schlüssel", "answerEs": "llave", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/anahtar.webp" },
-        { "id": 31, "answerTr": "ayakkabı", "answerEn": "shoes", "answerDe": "schuhe", "answerEs": "zapatos", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ayakkabı.webp" },
+          { "id": 1, "answerTr": "goril", "answerEn": "gorilla", "answerDe": "gorilla", "answerEs": "gorila", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/goril.webp" }
+        { "id": 2, "answerTr": "cüzdan", "answerEn": "wallet", "answerDe": "geldbörse", "answerEs": "billetera", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/cüzdan.webp" },
+        { "id": 3, "answerTr": "anahtar", "answerEn": "key", "answerDe": "schlüssel", "answerEs": "llave", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/anahtar.webp" },
+        { "id": 4, "answerTr": "ayakkabı", "answerEn": "shoes", "answerDe": "schuhe", "answerEs": "zapatos", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ayakkabı.webp" },
          { "id": 5, "answerTr": "at", "answerEn": "horse", "answerDe": "pferd", "answerEs": "caballo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/at.webp" }
+      ]
+    } ,
+    {
+      "level": 2,
+      "questions": [
+          { "id": 6, "answerTr": "goril", "answerEn": "gorilla", "answerDe": "gorilla", "answerEs": "gorila", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/goril.webp" }
+        { "id": 7, "answerTr": "cüzdan", "answerEn": "wallet", "answerDe": "geldbörse", "answerEs": "billetera", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/cüzdan.webp" },
+        { "id": 8, "answerTr": "anahtar", "answerEn": "key", "answerDe": "schlüssel", "answerEs": "llave", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/anahtar.webp" },
+        { "id": 9, "answerTr": "ayakkabı", "answerEn": "shoes", "answerDe": "schuhe", "answerEs": "zapatos", "categoryTr": "kişisel eşya", "categoryEn": "personal belongings", "categoryDe": "persönliche gegenstände", "categoryEs": "objetos personales", "image": "https://aty3825-rgb.github.io/macroscopeimg/ayakkabı.webp" },
+         { "id": 10, "answerTr": "at", "answerEn": "horse", "answerDe": "pferd", "answerEs": "caballo", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/at.webp" }
       ]
     } 
 
