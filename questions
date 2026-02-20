@@ -4,7 +4,7 @@
       "level": 1,
       "questions": [
         { "id": 1, "answerTr": "ayakkabı", "answerEn": "shoe", "answerDe": "schuh", "answerEs": "zapato", "categoryTr": "giyim", "categoryEn": "clothing", "categoryDe": "kleidung", "categoryEs": "ropa", "image": "https://aty3825-rgb.github.io/macroscopeimg/ayakkabi.webp" },
-        { "id": 2, "answerTr": "cüzdan", "answerEn": "wallet", "answerDe": "geldbeutel", "answerEs": "cartera", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/cuzdanev.webp" },
+        { "id": 2, "answerTr": "cüzdan", "answerEn": "wallet", "answerDe": "geldbeutel", "answerEs": "cartera", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/cuzdan.webp" },
         { "id": 3, "answerTr": "koala", "answerEn": "koala", "answerDe": "koala", "answerEs": "koala", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/koala.webp" },
         {  "id": 4, "answerTr": "goril", "answerEn": "gorilla", "answerDe": "gorilla", "answerEs": "gorila", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/goril.webp" },
         { "id": 5, "answerTr": "goril", "answerEn": "gorilla", "answerDe": "gorilla", "answerEs": "gorila", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/goril.webp" }
@@ -14,7 +14,7 @@
       "level": 2,
       "questions": [
         { "id": 6, "answerTr": "ayakkabı", "answerEn": "shoe", "answerDe": "schuh", "answerEs": "zapato", "categoryTr": "giyim", "categoryEn": "clothing", "categoryDe": "kleidung", "categoryEs": "ropa", "image": "https://aty3825-rgb.github.io/macroscopeimg/ayakkabi.webp" },
-        { "id": 7, "answerTr": "cüzdan", "answerEn": "wallet", "answerDe": "geldbeutel", "answerEs": "cartera", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/cuzdanev.webp" },
+        { "id": 7, "answerTr": "cüzdan", "answerEn": "wallet", "answerDe": "geldbeutel", "answerEs": "cartera", "categoryTr": "aksesuar", "categoryEn": "accessory", "categoryDe": "accessoire", "categoryEs": "accesorio", "image": "https://aty3825-rgb.github.io/macroscopeimg/cuzdan.webp" },
         { "id": 8, "answerTr": "koala", "answerEn": "koala", "answerDe": "koala", "answerEs": "koala", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/koala.webp" },
         {  "id": 9, "answerTr": "goril", "answerEn": "gorilla", "answerDe": "gorilla", "answerEs": "gorila", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/goril.webp" },
         { "id": 10, "answerTr": "goril", "answerEn": "gorilla", "answerDe": "gorilla", "answerEs": "gorila", "categoryTr": "hayvanlar", "categoryEn": "animals", "categoryDe": "tiere", "categoryEs": "animales", "image": "https://aty3825-rgb.github.io/macroscopeimg/goril.webp" }
