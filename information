@@ -126,7 +126,15 @@
         { "id": 4, "es": "Los paraguas se inventaron originalmente para proteger del sol, no de la lluvia.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
       ]
     },
-,
+    {
+      "level": 15,
+      "information": [
+        { "id": 1, "tr": "Mikrodalga fırınlar, bir radar projesi üzerinde çalışılırken tesadüfen bulunmuştur.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Microwave ovens were discovered by accident while working on a radar project.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Mikrowellenherde wurden durch Zufall bei der Arbeit an einem Radarprojekt entdeckt.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "Los hornos microondas fueron descubiertos por accidente mientras se trabajaba en un proyecto de radar.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
     {
       "level": 16,
       "information": [
