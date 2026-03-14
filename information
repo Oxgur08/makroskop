@@ -1,0 +1,131 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        { "id": 1, "informationTr": "Ahtapotların üç kalbi ve mavi kanı vardır.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "Octopuses have three hearts and blue blood.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Oktopusse haben drei Herzen und blaues Blut.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "Los pulpos tienen tres corazones y sangre azul.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" } 
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        { "id": 1, "informationTr": "Silgiler icat edilmeden önce kurşun kalem izleri bayat ekmek içiyle silinirdi.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "Before erasers were invented, pencil marks were erased with stale breadcrumbs.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Bevor Radiergummis erfunden wurden, wurden Bleistiftspuren mit altbackenen Brotkrumen wegradiert.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "Antes de que se inventaran las gomas de borrar, las marcas de lápiz se borraban con migas de pan duro.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        { "id": 1, "informationTr": "Aslanların kükremesi 8 kilometre uzaktan duyulabilir.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "A lion's roar can be heard from 8 kilometers away.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Das Brüllen eines Löwen kann aus 8 Kilometern Entfernung gehört werden.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "El rugido de un león se puede escuchar a 8 kilómetros de distancia.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 4,
+      "questions": [
+        { "id": 1, "informationTr": "Aynalar gümüş rengi değil, aslında çok hafif yeşil renklidir.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "Mirrors are not silver; they are actually very slightly green.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Spiegel sind nicht silberfarben, sondern eigentlich sehr leicht grünlich.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "Los espejos no son plateados; en realidad son de un color verde muy claro.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 5,
+      "questions": [
+        { "id": 1, "informationTr": "Zürafaların dilleri o kadar uzundur ki kendi kulaklarını temizleyebilirler.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "Giraffes' tongues are so long that they can clean their own ears.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Die Zungen von Giraffen sind so lang, dass sie sich damit die eigenen Ohren putzen können.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "Las lenguas de las jirafas son tan largas que pueden limpiarse sus propias orejas.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 6,
+      "questions": [
+        { "id": 1, "informationTr": "Barkod okuyucular siyah çizgileri değil, aralarındaki beyaz boşlukları okur.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "Barcode scanners read the white spaces between the black lines, not the lines themselves.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Barcode-Scanner lesen die weißen Zwischenräume zwischen den schwarzen Linien, nicht die Linien selbst.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "Los lectores de códigos de barras leen los espacios blancos entre las líneas negras, no las líneas en sí.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 7,
+      "questions": [
+        { "id": 1, "informationTr": "Kelebekler ayaklarıyla tat alırlar.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "Butterflies taste with their feet.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Schmetterlinge schmecken mit ihren Füßen.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "Las mariposas saborean con sus patas.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 8,
+      "questions": [
+        { "id": 1, "informationTr": "Standart bir kurşun kalemle 56 kilometre uzunluğunda bir çizgi çizilebilir.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "A line 56 kilometers long can be drawn with a standard pencil.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Mit einem Standardbleistift kann eine 56 Kilometer lange Linie gezeichnet werden.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "Con un lápiz estándar se puede dibujar una línea de 56 kilómetros de largo.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 9,
+      "questions": [
+        { "id": 1, "informationTr": "Karıncalar hiç uyumaz, sadece gün içinde kısa süreli dinlenirler.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "Ants never sleep; they only take short rests during the day.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Ameisen schlafen nie, sie ruhen sich nur tagsüber kurz aus.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "Las hormigas nunca duermen; solo toman breves descansos durante el día.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 10,
+      "questions": [
+        { "id": 1, "informationTr": "Kot pantolonların o minik cebi aslında cep saatleri için tasarlanmıştır.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "The tiny pocket on jeans was actually designed for pocket watches.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Die kleine Tasche an Jeanshosen wurde eigentlich für Taschenuhren entworfen.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "El pequeño bolsillo de los vaqueros fue diseñado en realidad para relojes de bolsillo.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+{
+      "level": 11,
+      "questions": [
+        { "id": 1, "informationTr": "Filler zıplayamayan tek memeli hayvandır.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "Elephants are the only mammals that cannot jump.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Elefanten sind die einzigen Säugetiere, die nicht springen können.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "Los elefantes son los únicos mamíferos que no pueden saltar.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 12,
+      "questions": [
+        { "id": 1, "informationTr": "Çakmak, kibritten daha önce icat edilmiştir.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "The lighter was invented before the match.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Das Feuerzeug wurde vor dem Streichholz erfunden.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "El encendedor fue inventado antes que el fósforo.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 13,
+      "questions": [
+        { "id": 1, "informationTr": "Köpek balıkları kansere yakalanmayan nadir canlılardandır.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "Sharks are among the rare creatures that do not get cancer.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Haie gehören zu den seltenen Lebewesen, die nicht an Krebs erkranken.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "Los tiburones se encuentran entre las raras criaturas que no contraen cáncer.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 14,
+      "questions": [
+        { "id": 1, "informationTr": "Şemsiyeler başlangıçta yağmurdan değil, güneşten korunmak için icat edildi.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "informationEn": "Umbrellas were originally invented to protect against the sun, not the rain.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "informationDe": "Regenschirme wurden ursprünglich erfunden, um vor der Sonne zu schützen, nicht vor dem Regen.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "informationEs": "Los paraguas se inventaron originalmente para proteger del sol, no de la lluvia.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    }
+  ]
+}
+
