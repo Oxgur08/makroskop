@@ -125,6 +125,277 @@
         { "id": 3, "de": "Regenschirme wurden ursprünglich erfunden, um vor der Sonne zu schützen, nicht vor dem Regen.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
         { "id": 4, "es": "Los paraguas se inventaron originalmente para proteger del sol, no de la lluvia.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
       ]
+    },
+,
+    {
+      "level": 16,
+      "information": [
+        { "id": 1, "tr": "Mikrodalga fırınlar, bir radar projesi üzerinde çalışılırken tesadüfen bulunmuştur.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Microwave ovens were discovered by accident while working on a radar project.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Mikrowellenherde wurden durch Zufall bei der Arbeit an einem Radarprojekt entdeckt.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "Los hornos microondas fueron descubiertos por accidente mientras se trabajaba en un proyecto de radar.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 17,
+      "information": [
+        { "id": 1, "tr": "Deve kuşlarının gözleri beyinlerinden daha büyüktür.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Ostriches' eyes are larger than their brains.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Die Augen von Straußen sind größer als ihre Gehirne.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "Los ojos de las avestruces son más grandes que sus cerebros.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 18,
+      "information": [
+        { "id": 1, "tr": "Ketçap 1830'larda mide ilacı olarak eczanelerde satılıyordu.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Ketchup was sold in pharmacies as a stomach medicine in the 1830s.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Ketchup wurde in den 1830er Jahren in Apotheken als Magenmedizin verkauft.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "El kétchup se vendía en las farmacias como medicina para el estómago en la década de 1830.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 19,
+      "information": [
+        { "id": 1, "tr": "Yunuslar uyurken beyinlerinin sadece yarısını dinlendirir, bir gözleri hep açıktır.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Dolphins rest only half of their brain while sleeping; one eye is always open.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Delfine ruhen im Schlaf nur eine Hälfte ihres Gehirns aus; ein Auge ist immer offen." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 4, "es": "Los delfines descansan solo la mitad de su cerebro mientras duermen; un ojo siempre está abierto.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 20,
+      "information": [
+        { "id": 1, "tr": "Pamuk şeker, bir diş hekimi tarafından icat edilmiştir.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Cotton candy was invented by a dentist.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Zuckerwatte wurde von einem Zahnarzt erfunden.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "El algodón de azúcar fue inventado por un dentista.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 21,
+      "information": [
+        { "id": 1, "tr": "Salyangozlar 3 yıl boyunca aralıksız uyuyabilirler.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Snails can sleep continuously for 3 years.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Schnecken können 3 Jahre lang ununterbrochen schlafen." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 4, "es": "Los caracoles pueden dormir continuamente durante 3 años.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 22,
+      "information": [
+        { "id": 1, "tr": "Uçaklardaki kara kutular aslında siyah değil, parlak turuncudur.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Black boxes on airplanes are not actually black, but bright orange.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Blackboxen in Flugzeugen sind eigentlich nicht schwarz, sondern leuchtend orange.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "Las cajas negras de los aviones en realidad no son negras, sino de color naranja brillante.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 23,
+      "information": [
+        { "id": 1, "tr": "Kaplanların sadece tüyleri değil, derileri de çizgilidir.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Not only tigers' fur, but also their skin is striped.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Nicht nur das Fell von Tigern, sondern auch ihre Haut ist gestreift." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 4, "es": "No solo el pelaje de los tigres, sino también su piel es rayada.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 24,
+      "information": [
+        { "id": 1, "tr": "İlk bilgisayar faresi plastikten değil, ahşaptan yapılmıştı.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "The first computer mouse was made of wood, not plastic.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Die erste Computermaus war aus Holz, nicht aus Plastik." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 4, "es": "El primer ratón de ordenador estaba hecho de madera, no de plástico.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 25,
+      "information": [
+        { "id": 1, "tr": "Su aygırlarının sütü pembe renklidir." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 2, "en": "Hippopotamus milk is pink." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 3, "de": "Die Milch von Flusspferden ist rosa.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "La leche de hipopótamo es de color rosa.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 26,
+      "information": [
+        { "id": 1, "tr": "Fermuar ilk icat edildiğinde karmaşık bulunmuş ve kullanım kılavuzuyla satılmıştır." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 2, "en": "When the zipper was first invented, it was found complicated and sold with a user manual.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Als der Reißverschluss erfunden wurde, fand man ihn kompliziert und verkaufte ihn mit einer Gebrauchsanweisung.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "Cuando se inventó la cremallera, pareció complicada y se vendió con un manual de usuario.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 27,
+      "information": [
+        { "id": 1, "tr": "Hamam böcekleri kafaları koptuktan sonra bile haftalarca yaşayabilirler.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Cockroaches can live for weeks even after their heads are cut off." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 3, "de": "Kakerlaken können wochenlang weiterleben, selbst wenn ihr Kopf abgetrennt wurde.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 4, "es": "Las cucarachas pueden vivir durante semanas incluso después de que les corten la cabeza." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"}
+      ]
+    },
+    {
+      "level": 28,
+      "information": [
+        { "id": 1, "tr": "Ütülerin altındaki gözenekler, buharı dağıtarak kumaşın yanmasını önler.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "The pores under irons distribute steam and prevent the fabric from burning.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Die Poren unter Bügeleisen verteilen den Dampf und verhindern, dass der Stoff verbrennt.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "Los poros debajo de las planchas distribuyen el vapor y evitan que la tela se queme.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 29,
+      "information": [
+        { "id": 1, "tr": "Baykuşlar gözlerini hareket ettiremez, bakmak için kafalarını çevirirler.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Owls cannot move their eyes; they turn their heads to look." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 3, "de": "Eulen können ihre Augen nicht bewegen; sie drehen ihren Kopf, um zu schauen.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "Los búhos no pueden mover los ojos; giran la cabeza para mirar." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"}
+      ]
+    },
+    {
+      "level": 30,
+      "information": [
+        { "id": 1, "tr": "İlk futbol topları domuz mesanesinden yapılıyordu.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "The first footballs were made from pig bladders.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Die ersten Fußbälle wurden aus Schweinsblasen hergestellt." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 4, "es": "Los primeros balones de fútbol se fabricaban con vejigas de cerdo.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 31,
+      "information": [
+        { "id": 1, "tr": "Kangurular geri geri yürüyemez veya zıplayamaz." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 2, "en": "Kangaroos cannot walk or jump backwards." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 3, "de": "Kängurus können nicht rückwärts laufen oder springen.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "Los canguros no pueden caminar ni saltar hacia atrás.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 32,
+      "information": [
+        { "id": 1, "tr": "Kağıt paralar aslında kağıttan değil, pamuk ve ketenden üretilir.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Paper money is not actually made of paper, but of cotton and linen.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Papiergeld besteht eigentlich nicht aus Papier, sondern aus Baumwolle und Leinen.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "El papel moneda en realidad no está hecho de papel, sino de algodón y lino.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 33,
+      "information": [
+        { "id": 1, "tr": "Sivrisineklerin 47 tane minik dişi vardır.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Mosquitoes have 47 tiny teeth.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Mücken haben 47 winzige Zähne.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "Los mosquitos tienen 47 dientes diminutos." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"}
+      ]
+    },
+    {
+      "level": 34,
+      "information": [
+        { "id": 1, "tr": "Cam kırıldığında oluşan çatlaklar saatte 4800 km hızla ilerler.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Cracks formed when glass breaks travel at a speed of 4800 km per hour.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Risse, die entstehen, wenn Glas bricht, breiten sich mit einer Geschwindigkeit von 4800 km/h aus.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "Las grietas que se forman cuando el vidrio se rompe viajan a una velocidad de 4800 km por hora.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 35,
+      "information": [
+        { "id": 1, "tr": "Kutup ayılarının derisi siyahtır, tüyleri ise şeffaftır." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 2, "en": "Polar bears' skin is black, and their fur is transparent.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Die Haut von Eisbären ist schwarz, und ihr Fell ist transparent." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 4, "es": "La piel de los osos polares es negra y su pelaje es transparente.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 36,
+      "information": [
+        { "id": 1, "tr": "\"Wi-Fi\" kelimesinin teknik bir anlamı yoktur, sadece kulağa hoş geldiği için seçilmiştir.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "The word \"Wi-Fi\" has no technical meaning; it was chosen just because it sounds catchy.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 3, "de": "Das Wort \"Wi-Fi\" hat keine technische Bedeutung, es wurde nur gewählt, weil es gut klingt." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 4, "es": "La palabra \"Wi-Fi\" no tiene ningún significado técnico; fue elegida solo porque suena pegadiza.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 37,
+      "information": [
+        { "id": 1, "tr": "Denizatları, erkekleri hamile kalan tek canlı türüdür." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 2, "en": "Seahorses are the only species where the male gets pregnant." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 3, "de": "Seepferdchen sind die einzige Tierart, bei der die Männchen schwanger werden.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 4, "es": "Los caballitos de mar son la única especie donde el macho queda embarazado.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" }
+      ]
+    },
+    {
+      "level": 38,
+      "information": [
+        { "id": 1, "tr": "Golf toplarındaki çukurlar, topun havada daha uzağa gitmesini sağlar.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "The dimples on golf balls allow the ball to travel further in the air." },
+        { "id": 3, "de": "Die Dellen auf Golfbällen sorgen dafür, dass der Ball in der Luft weiter fliegt." },
+        { "id": 4, "es": "Los hoyuelos en las pelotas de golf permiten que la pelota viaje más lejos en el aire." }
+      ]
+    },
+    {
+      "level": 39,
+      "information": [
+        { "id": 1, "tr": "Karideslerin kalbi kafalarının içindedir.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "A shrimp's heart is located in its head." },
+        { "id": 3, "de": "Das Herz einer Garnele befindet sich in ihrem Kopf." },
+        { "id": 4, "es": "El corazón de un camarón se encuentra en su cabeza." }
+      ]
+    },
+    {
+      "level": 40,
+      "information": [
+        { "id": 1, "tr": "İlk alarm saatleri sadece sabah 4'te çalabiliyordu.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "The first alarm clocks could only ring at 4 AM." },
+        { "id": 3, "de": "Die ersten Wecker konnten nur morgens um 4 Uhr klingeln." },
+        { "id": 4, "es": "Los primeros relojes despertadores solo podían sonar a las 4 de la mañana." }
+      ]
+    },
+{
+      "level": 41,
+      "information": [
+        { "id": 1, "tr": "Çitalar havada asılı kalarak koşarlar; bir an gelir ki 4 ayağı da yere değmez." , "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp"},
+        { "id": 2, "en": "Cheetahs run by hovering in the air; there comes a moment when all 4 feet are off the ground." },
+        { "id": 3, "de": "Geparden rennen, indem sie in der Luft schweben; es gibt einen Moment, in dem alle 4 Pfoten den Boden nicht berühren." },
+        { "id": 4, "es": "Los guepardos corren flotando en el aire; llega un momento en que sus 4 patas no tocan el suelo." }
+      ]
+    },
+    {
+      "level": 42,
+      "information": [
+        { "id": 1, "tr": "Yürüyen merdivenlerdeki fırçalar ayakkabı temizlemek için değil, güvenlik içindir.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "The brushes on escalators are not for cleaning shoes, but for safety." },
+        { "id": 3, "de": "Die Bürsten an Rolltreppen dienen nicht zum Schuheputzen, sondern der Sicherheit." },
+        { "id": 4, "es": "Los cepillos de las escaleras mecánicas no son para limpiar los zapatos, sino por seguridad." }
+      ]
+    },
+    {
+      "level": 43,
+      "information": [
+        { "id": 1, "tr": "Timsahlar dillerini dışarı çıkaramazlar.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Crocodiles cannot stick their tongues out." },
+        { "id": 3, "de": "Krokodile können ihre Zunge nicht herausstrecken." },
+        { "id": 4, "es": "Los cocodrilos no pueden sacar la lengua." }
+      ]
+    },
+    {
+      "level": 44,
+      "information": [
+        { "id": 1, "tr": "Rubik Küp'ün mucidi kendi icadını çözmek için 1 ay uğraşmıştır.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "The inventor of the Rubik's Cube spent 1 month trying to solve his own invention." },
+        { "id": 3, "de": "Der Erfinder des Zauberwürfels brauchte 1 Monat, um seine eigene Erfindung zu lösen." },
+        { "id": 4, "es": "El inventor del Cubo de Rubik tardó 1 mes en resolver su propio invento." }
+      ]
+    },
+    {
+      "level": 45,
+      "information": [
+        { "id": 1, "tr": "Fareler gıdıklandıklarında insanların duyamayacağı frekansta kıkırdarlar.", "image": "https://aty3825-rgb.github.io/macroscopeimg/ahtapot.webp" },
+        { "id": 2, "en": "Rats giggle at a frequency humans cannot hear when tickled." },
+        { "id": 3, "de": "Ratten kichern in einer Frequenz, die Menschen nicht hören können, wenn sie gekitzelt werden." },
+        { "id": 4, "es": "Las ratas se ríen a una frecuencia que los humanos no pueden escuchar cuando les hacen cosquillas." }
+      ]
     }
   ]
 }
