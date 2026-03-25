@@ -1,0 +1,54 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "levelque": [
+       {
+        "Kolay": [
+          "tr": { "q": "Gökkuşağında standart olarak kaç renk bulunduğu kabul edilir?", "options": ["5", "6", "7", "8"], "a": "7" },
+          "en": { "q": "How many colors are traditionally in a rainbow?", "options": ["5", "6", "7", "8"], "a": "7" },
+          "de": { "q": "Wie viele Farben hat ein Regenbogen?", "options": ["5", "6", "7", "8"], "a": "7" },
+          "es": { "q": "¿Cuántos colores tiene un arcoíris?", "options": ["5", "6", "7", "8"], "a": "7" }
+        ],
+        "Orta": [
+          "tr": { "q": "Pusulada 'S' harfi hangi yönü temsil eder?", "options": ["Kuzey", "Güney", "Doğu", "Batı"], "a": "Güney" },
+          "en": { "q": "What does 'S' represent on a compass?", "options": ["North", "South", "East", "West"], "a": "South" },
+          "de": { "q": "Was bedeutet 'S' auf einem Kompass?", "options": ["Norden", "Süden", "Osten", "Westen"], "a": "Süden" },
+          "es": { "q": "¿Qué representa la 'S' en una brújula?", "options": ["Norte", "Sur", "Este", "Oeste"], "a": "Sur" }
+        ],
+        "Zor": [
+          "tr": { "q": "Periyodik tabloda 'W' sembolü hangi elementtir?", "options": ["Wolfram", "Ksenon", "Bizmut", "Gümüş"], "a": "Wolfram" },
+          "en": { "q": "Which element has the symbol 'W'?", "options": ["Tungsten", "Xenon", "Bismuth", "Silver"], "a": "Tungsten" },
+          "de": { "q": "Welches Element hat das Symbol 'W'?", "options": ["Wolfram", "Xenon", "Wismut", "Silber"], "a": "Wolfram" },
+          "es": { "q": "¿Qué elemento tiene el símbolo 'W'?", "options": ["Wolframio", "Xenón", "Bismuto", "Plata"], "a": "Wolframio" }
+        ]
+       }
+      ]
+    },
+    {
+      "level": 2,
+      "levelque": [
+       {
+        "Kolay": [
+          "tr": { "q": "Örümceklerin kaç bacağı vardır?", "options": ["6", "8", "10", "12"], "a": "8" },
+          "en": { "q": "How many legs do spiders have?", "options": ["6", "8", "10", "12"], "a": "8" },
+          "de": { "q": "Wie viele Beine haben Spinnen?", "options": ["6", "8", "10", "12"], "a": "8" },
+          "es": { "q": "¿Cuántas patas tienen las arañas?", "options": ["6", "8", "10", "12"], "a": "8" }
+        ],
+        "Orta": [
+          "tr": { "q": "Telefonu kim icat etti?", "options": ["Edison", "Tesla", "Graham Bell", "Marconi"], "a": "Graham Bell" },
+          "en": { "q": "Who invented the telephone?", "options": ["Edison", "Tesla", "Graham Bell", "Marconi"], "a": "Graham Bell" },
+          "de": { "q": "Wer hat das Telefon erfunden?", "options": ["Edison", "Tesla", "Graham Bell", "Marconi"], "a": "Graham Bell" },
+          "es": { "q": "¿Quién inventó el teléfono?", "options": ["Edison", "Tesla", "Graham Bell", "Marconi"], "a": "Graham Bell" }
+        ],
+        "Zor": [
+          "tr": { "q": "Mariana Çukuru hangi okyanustadır?", "options": ["Atlas", "Hint", "Pasifik", "Arktik"], "a": "Pasifik" },
+          "en": { "q": "Where is the Mariana Trench?", "options": ["Atlantic", "Indian", "Pacific", "Arctic"], "a": "Pacific" },
+          "de": { "q": "Wo liegt der Marianengraben?", "options": ["Atlantik", "Indischer", "Pazifik", "Arktischer"], "a": "Pazifik" },
+          "es": { "q": "¿Dónde está la Fosa de las Marianas?", "options": ["Atlántico", "Índico", "Pacífico", "Ártico"], "a": "Pacífico" }
+        ]
+       }
+      ]
+    }
+  ]
+}
