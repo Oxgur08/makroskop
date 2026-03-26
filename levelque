@@ -29,7 +29,6 @@
         ]
       }
     },
-
     {
       "level": 2,
       "levelque": {
@@ -55,6 +54,64 @@
             "en": { "q": "Where is the Mariana Trench?", "options": ["Atlantic", "Indian", "Pacific", "Arctic"], "a": "Pacific" },
             "de": { "q": "Wo liegt der Marianengraben?", "options": ["Atlantik", "Indischer", "Pazifik", "Arktischer"], "a": "Pazifik" },
             "es": { "q": "¿Dónde está la Fosa de las Marianas?", "options": ["Atlántico", "Índico", "Pacífico", "Ártico"], "a": "Pacífico" }
+          }
+        ]
+      }
+    },
+    {
+      "level": 3,
+      "levelque": {
+        "Kolay": [
+          {
+            "tr": { "q": "Güneş Sistemi'ndeki en büyük gezegen hangisidir?", "options": ["Dünya", "Mars", "Jüpiter", "Satürn"], "a": "Jüpiter" },
+            "en": { "q": "What is the largest planet in the Solar System?", "options": ["Earth", "Mars", "Jupiter", "Saturn"], "a": "Jupiter" },
+            "de": { "q": "Was ist der größte Planet im Sonnensystem?", "options": ["Erde", "Mars", "Jupiter", "Saturn"], "a": "Jupiter" },
+            "es": { "q": "¿Cuál es el planeta más grande del Sistema Solar?", "options": ["Tierra", "Marte", "Júpiter", "Saturno"], "a": "Júpiter" }
+          }
+        ],
+        "Orta": [
+          {
+            "tr": { "q": "Mona Lisa tablosunu kim yapmıştır?", "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"], "a": "Leonardo da Vinci" },
+            "en": { "q": "Who painted the Mona Lisa?", "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"], "a": "Leonardo da Vinci" },
+            "de": { "q": "Wer hat die Mona Lisa gemalt?", "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"], "a": "Leonardo da Vinci" },
+            "es": { "q": "¿Quién pintó la Mona Lisa?", "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"], "a": "Leonardo da Vinci" }
+          }
+        ],
+        "Zor": [
+          {
+            "tr": { "q": "İnsan vücudundaki en küçük kemik hangisidir?", "options": ["Çekiç", "Örs", "Üzengi", "Uyluk"], "a": "Üzengi" },
+            "en": { "q": "What is the smallest bone in the human body?", "options": ["Malleus", "Incus", "Stapes", "Femur"], "a": "Stapes" },
+            "de": { "q": "Was ist der kleinste Knochen im menschlichen Körper?", "options": ["Hammer", "Amboss", "Steigbügel", "Oberschenkelknochen"], "a": "Steigbügel" },
+            "es": { "q": "¿Cuál es el hueso más pequeño del cuerpo humano?", "options": ["Martillo", "Yunque", "Estribo", "Fémur"], "a": "Estribo" }
+          }
+        ]
+      }
+    },
+    {
+      "level": 4,
+      "levelque": {
+        "Kolay": [
+          {
+            "tr": { "q": "Suyun kaynama noktası kaç santigrat derecedir?", "options": ["50", "90", "100", "120"], "a": "100" },
+            "en": { "q": "What is the boiling point of water in Celsius?", "options": ["50", "90", "100", "120"], "a": "100" },
+            "de": { "q": "Was ist der Siedepunkt von Wasser in Celsius?", "options": ["50", "90", "100", "120"], "a": "100" },
+            "es": { "q": "¿Cuál es el punto de ebullición del agua en grados Celsius?", "options": ["50", "90", "100", "120"], "a": "100" }
+          }
+        ],
+        "Orta": [
+          {
+            "tr": { "q": "Harry Potter serisinin yazarı kimdir?", "options": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "Stephen King"], "a": "J.K. Rowling" },
+            "en": { "q": "Who is the author of the Harry Potter series?", "options": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "Stephen King"], "a": "J.K. Rowling" },
+            "de": { "q": "Wer ist der Autor der Harry Potter Serie?", "options": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "Stephen King"], "a": "J.K. Rowling" },
+            "es": { "q": "¿Quién es el autor de la serie de Harry Potter?", "options": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "Stephen King"], "a": "J.K. Rowling" }
+          }
+        ],
+        "Zor": [
+          {
+            "tr": { "q": "Tarihteki ilk bilgisayar programcısı kim olarak kabul edilir?", "options": ["Alan Turing", "Charles Babbage", "Ada Lovelace", "Bill Gates"], "a": "Ada Lovelace" },
+            "en": { "q": "Who is considered the first computer programmer in history?", "options": ["Alan Turing", "Charles Babbage", "Ada Lovelace", "Bill Gates"], "a": "Ada Lovelace" },
+            "de": { "q": "Wer gilt als der erste Computerprogrammierer der Geschichte?", "options": ["Alan Turing", "Charles Babbage", "Ada Lovelace", "Bill Gates"], "a": "Ada Lovelace" },
+            "es": { "q": "¿Quién es considerada la primera programadora de computadoras de la historia?", "options": ["Alan Turing", "Charles Babbage", "Ada Lovelace", "Bill Gates"], "a": "Ada Lovelace" }
           }
         ]
       }
