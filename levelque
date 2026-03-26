@@ -115,6 +115,180 @@
           }
         ]
       }
+    },
+    {
+      "level": 5,
+      "levelque": {
+        "Kolay": [
+          {
+            "tr": { "q": "Bir yılda kaç ay vardır?", "options": ["10", "12", "14", "24"], "a": "12" },
+            "en": { "q": "How many months are in a year?", "options": ["10", "12", "14", "24"], "a": "12" },
+            "de": { "q": "Wie viele Monate hat ein Jahr?", "options": ["10", "12", "14", "24"], "a": "12" },
+            "es": { "q": "¿Cuántos meses hay en un año?", "options": ["10", "12", "14", "24"], "a": "12" }
+          }
+        ],
+        "Orta": [
+          {
+            "tr": { "q": "Japonya'nın başkenti neresidir?", "options": ["Pekin", "Seul", "Tokyo", "Kyoto"], "a": "Tokyo" },
+            "en": { "q": "What is the capital of Japan?", "options": ["Beijing", "Seoul", "Tokyo", "Kyoto"], "a": "Tokyo" },
+            "de": { "q": "Was ist die Hauptstadt von Japan?", "options": ["Peking", "Seoul", "Tokio", "Kyoto"], "a": "Tokio" },
+            "es": { "q": "¿Cuál es la capital de Japón?", "options": ["Pekín", "Seúl", "Tokio", "Kioto"], "a": "Tokio" }
+          }
+        ],
+        "Zor": [
+          {
+            "tr": { "q": "Periyodik tablodaki 'Au' sembolü hangi elementtir?", "options": ["Gümüş", "Altın", "Demir", "Alüminyum"], "a": "Altın" },
+            "en": { "q": "Which element is 'Au' on the periodic table?", "options": ["Silver", "Gold", "Iron", "Aluminum"], "a": "Gold" },
+            "de": { "q": "Welches Element ist 'Au' im Periodensystem?", "options": ["Silber", "Gold", "Eisen", "Aluminium"], "a": "Gold" },
+            "es": { "q": "¿Qué elemento es 'Au' en la tabla periódica?", "options": ["Plata", "Oro", "Hierro", "Aluminio"], "a": "Oro" }
+          }
+        ]
+      }
+    },
+    {
+      "level": 6,
+      "levelque": {
+        "Kolay": [
+          {
+            "tr": { "q": "Bir günde kaç saat vardır?", "options": ["12", "20", "24", "48"], "a": "24" },
+            "en": { "q": "How many hours are in a day?", "options": ["12", "20", "24", "48"], "a": "24" },
+            "de": { "q": "Wie viele Stunden hat ein Tag?", "options": ["12", "20", "24", "48"], "a": "24" },
+            "es": { "q": "¿Cuántas horas hay en un día?", "options": ["12", "20", "24", "48"], "a": "24" }
+          }
+        ],
+        "Orta": [
+          {
+            "tr": { "q": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?", "options": ["Venüs", "Mars", "Jüpiter", "Satürn"], "a": "Mars" },
+            "en": { "q": "Which planet is known as the Red Planet?", "options": ["Venus", "Mars", "Jupiter", "Saturn"], "a": "Mars" },
+            "de": { "q": "Welcher Planet ist als der Rote Planet bekannt?", "options": ["Venus", "Mars", "Jupiter", "Saturn"], "a": "Mars" },
+            "es": { "q": "¿Qué planeta es conocido como el Planeta Rojo?", "options": ["Venus", "Marte", "Júpiter", "Saturno"], "a": "Marte" }
+          }
+        ],
+        "Zor": [
+          {
+            "tr": { "q": "Avustralya'nın başkenti neresidir?", "options": ["Sidney", "Melbourne", "Canberra", "Perth"], "a": "Canberra" },
+            "en": { "q": "What is the capital of Australia?", "options": ["Sydney", "Melbourne", "Canberra", "Perth"], "a": "Canberra" },
+            "de": { "q": "Was ist die Hauptstadt von Australien?", "options": ["Sydney", "Melbourne", "Canberra", "Perth"], "a": "Canberra" },
+            "es": { "q": "¿Cuál es la capital de Australia?", "options": ["Sídney", "Melbourne", "Canberra", "Perth"], "a": "Canberra" }
+          }
+        ]
+      }
+    },
+    {
+      "level": 7,
+      "levelque": {
+        "Kolay": [
+          {
+            "tr": { "q": "Hangi hayvan insanın en iyi dostu olarak bilinir?", "options": ["Kedi", "Köpek", "At", "Kuş"], "a": "Köpek" },
+            "en": { "q": "Which animal is known as man's best friend?", "options": ["Cat", "Dog", "Horse", "Bird"], "a": "Dog" },
+            "de": { "q": "Welches Tier gilt als der beste Freund des Menschen?", "options": ["Katze", "Hund", "Pferd", "Vogel"], "a": "Hund" },
+            "es": { "q": "¿Qué animal es conocido como el mejor amigo del hombre?", "options": ["Gato", "Perro", "Caballo", "Pájaro"], "a": "Perro" }
+          }
+        ],
+        "Orta": [
+          {
+            "tr": { "q": "'Romeo ve Juliet' eserini kim yazmıştır?", "options": ["Charles Dickens", "William Shakespeare", "Ernest Hemingway", "Lev Tolstoy"], "a": "William Shakespeare" },
+            "en": { "q": "Who wrote 'Romeo and Juliet'?", "options": ["Charles Dickens", "William Shakespeare", "Ernest Hemingway", "Leo Tolstoy"], "a": "William Shakespeare" },
+            "de": { "q": "Wer schrieb 'Romeo und Julia'?", "options": ["Charles Dickens", "William Shakespeare", "Ernest Hemingway", "Leo Tolstoi"], "a": "William Shakespeare" },
+            "es": { "q": "¿Quién escribió 'Romeo y Julieta'?", "options": ["Charles Dickens", "William Shakespeare", "Ernest Hemingway", "León Tolstói"], "a": "William Shakespeare" }
+          }
+        ],
+        "Zor": [
+          {
+            "tr": { "q": "Demir elementinin kimyasal sembolü nedir?", "options": ["Ir", "Fe", "In", "I"], "a": "Fe" },
+            "en": { "q": "What is the chemical symbol for Iron?", "options": ["Ir", "Fe", "In", "I"], "a": "Fe" },
+            "de": { "q": "Was ist das chemische Symbol für Eisen?", "options": ["Ir", "Fe", "In", "I"], "a": "Fe" },
+            "es": { "q": "¿Cuál es el símbolo químico del hierro?", "options": ["Ir", "Fe", "In", "I"], "a": "Fe" }
+          }
+        ]
+      }
+    },
+    {
+      "level": 8,
+      "levelque": {
+        "Kolay": [
+          {
+            "tr": { "q": "Suyun donma noktası kaç santigrat derecedir?", "options": ["-10", "0", "10", "32"], "a": "0" },
+            "en": { "q": "What is the freezing point of water in Celsius?", "options": ["-10", "0", "10", "32"], "a": "0" },
+            "de": { "q": "Was ist der Gefrierpunkt von Wasser in Celsius?", "options": ["-10", "0", "10", "32"], "a": "0" },
+            "es": { "q": "¿Cuál es el punto de congelación del agua en grados Celsius?", "options": ["-10", "0", "10", "32"], "a": "0" }
+          }
+        ],
+        "Orta": [
+          {
+            "tr": { "q": "Dünyanın en büyük okyanusu hangisidir?", "options": ["Atlas", "Hint", "Pasifik", "Arktik"], "a": "Pasifik" },
+            "en": { "q": "Which ocean is the largest?", "options": ["Atlantic", "Indian", "Pacific", "Arctic"], "a": "Pacific" },
+            "de": { "q": "Welcher Ozean ist der größte?", "options": ["Atlantik", "Indischer", "Pazifik", "Arktischer"], "a": "Pazifik" },
+            "es": { "q": "¿Cuál es el océano más grande?", "options": ["Atlántico", "Índico", "Pacífico", "Ártico"], "a": "Pacífico" }
+          }
+        ],
+        "Zor": [
+          {
+            "tr": { "q": "Sistine Şapeli'nin tavanını kim çizmiştir?", "options": ["Da Vinci", "Raffaello", "Michelangelo", "Donatello"], "a": "Michelangelo" },
+            "en": { "q": "Who painted the Sistine Chapel ceiling?", "options": ["Da Vinci", "Raphael", "Michelangelo", "Donatello"], "a": "Michelangelo" },
+            "de": { "q": "Wer bemalte die Decke der Sixtinischen Kapelle?", "options": ["Da Vinci", "Raffael", "Michelangelo", "Donatello"], "a": "Michelangelo" },
+            "es": { "q": "¿Quién pintó el techo de la Capilla Sixtina?", "options": ["Da Vinci", "Rafael", "Miguel Ángel", "Donatello"], "a": "Miguel Ángel" }
+          }
+        ]
+      }
+    },
+    {
+      "level": 9,
+      "levelque": {
+        "Kolay": [
+          {
+            "tr": { "q": "Dünyada kaç kıta vardır?", "options": ["5", "6", "7", "8"], "a": "7" },
+            "en": { "q": "How many continents are there in the world?", "options": ["5", "6", "7", "8"], "a": "7" },
+            "de": { "q": "Wie viele Kontinente gibt es auf der Welt?", "options": ["5", "6", "7", "8"], "a": "7" },
+            "es": { "q": "¿Cuántos continentes hay en el mundo?", "options": ["5", "6", "7", "8"], "a": "7" }
+          }
+        ],
+        "Orta": [
+          {
+            "tr": { "q": "Dünyadaki en sert doğal madde hangisidir?", "options": ["Altın", "Demir", "Elmas", "Kuvars"], "a": "Elmas" },
+            "en": { "q": "What is the hardest natural substance on Earth?", "options": ["Gold", "Iron", "Diamond", "Quartz"], "a": "Diamond" },
+            "de": { "q": "Was ist die härteste natürliche Substanz der Erde?", "options": ["Gold", "Eisen", "Diamant", "Quarz"], "a": "Diamant" },
+            "es": { "q": "¿Cuál es la sustancia natural más dura de la Tierra?", "options": ["Oro", "Hierro", "Diamante", "Cuarzo"], "a": "Diamante" }
+          }
+        ],
+        "Zor": [
+          {
+            "tr": { "q": "Titanik hangi yılda batmıştır?", "options": ["1905", "1912", "1920", "1918"], "a": "1912" },
+            "en": { "q": "In what year did the Titanic sink?", "options": ["1905", "1912", "1920", "1918"], "a": "1912" },
+            "de": { "q": "In welchem Jahr sank die Titanic?", "options": ["1905", "1912", "1920", "1918"], "a": "1912" },
+            "es": { "q": "¿En qué año se hundió el Titanic?", "options": ["1905", "1912", "1920", "1918"], "a": "1912" }
+          }
+        ]
+      }
+    },
+    {
+      "level": 10,
+      "levelque": {
+        "Kolay": [
+          {
+            "tr": { "q": "Kırmızı ve sarı karıştırıldığında hangi renk elde edilir?", "options": ["Yeşil", "Mor", "Turuncu", "Kahverengi"], "a": "Turuncu" },
+            "en": { "q": "What color do you get by mixing red and yellow?", "options": ["Green", "Purple", "Orange", "Brown"], "a": "Orange" },
+            "de": { "q": "Welche Farbe erhält man, wenn man Rot und Gelb mischt?", "options": ["Grün", "Lila", "Orange", "Braun"], "a": "Orange" },
+            "es": { "q": "¿Qué color obtienes al mezclar rojo y amarillo?", "options": ["Verde", "Morado", "Naranja", "Marrón"], "a": "Naranja" }
+          }
+        ],
+        "Orta": [
+          {
+            "tr": { "q": "Kanguruların ana vatanı olan ülke hangisidir?", "options": ["Yeni Zelanda", "Güney Afrika", "Avustralya", "Brezilya"], "a": "Avustralya" },
+            "en": { "q": "Which country is home to the kangaroo?", "options": ["New Zealand", "South Africa", "Australia", "Brazil"], "a": "Australia" },
+            "de": { "q": "Welches Land ist die Heimat des Kängurus?", "options": ["Neuseeland", "Südafrika", "Australien", "Brasilien"], "a": "Australien" },
+            "es": { "q": "¿Qué país es el hogar del canguro?", "options": ["Nueva Zelanda", "Sudáfrica", "Australia", "Brasil"], "a": "Australia" }
+          }
+        ],
+        "Zor": [
+          {
+            "tr": { "q": "Dünyanın yüzölçümü bakımından en küçük ülkesi hangisidir?", "options": ["Monako", "Nauru", "Vatikan", "San Marino"], "a": "Vatikan" },
+            "en": { "q": "What is the smallest country in the world by land area?", "options": ["Monaco", "Nauru", "Vatican City", "San Marino"], "a": "Vatican City" },
+            "de": { "q": "Was ist das flächenmäßig kleinste Land der Welt?", "options": ["Monaco", "Nauru", "Vatikanstadt", "San Marino"], "a": "Vatikanstadt" },
+            "es": { "q": "¿Cuál es el país más pequeño del mundo por superficie?", "options": ["Mónaco", "Nauru", "Ciudad del Vaticano", "San Marino"], "a": "Ciudad del Vaticano" }
+          }
+        ]
+      }
     }
   ]
 }
